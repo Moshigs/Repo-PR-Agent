@@ -1,0 +1,23 @@
+{
+  "_note": "Optional documentation-style images generated via scripts/generate_images.py. Do not misuse as impersonation of real billing or dashboards.",
+  "items": [
+    {
+      "id": "workflow-terminal",
+      "filename": "workflow_terminal.png",
+      "prompt_zh": "深色 IDE 风格全屏演示图（虚构界面）：左侧为文件树与多角色任务面板（Planner / Coder / Reviewer），中央为 monospace 终端，彩色时间戳日志、工具调用示意、单次任务近似 token 统计；右下角极淡半透明小字水印仅写 Demo pipeline mockup。不出现真实公司名称与商标，无真实身份标识，为高分辨率假想 UI，非照片。",
+      "prompt_api": "Fictional IDE full-screen UI mockup, dark theme for documentation. Left: file tree and generic multi-role panels labeled Planner, Coder, Reviewer without brand logos. Center: monospace terminal with faux timestamps, tool-call lines, illustrative token summaries. Tiny faint watermark: Demo pipeline mockup. No recognizable corporate marks, crisp UI typography, stylized screenshot not a photograph."
+    },
+    {
+      "id": "multiagent-diagram",
+      "filename": "multiagent_flow.png",
+      "prompt_zh": "浅色中性信息图：用户请求经过任务拆分、并行子代理、工具执行、审查合并。圆角卡片、箭头连线、简体中文标签；无 Logo。",
+      "prompt_api": "Neutral light-gray infographic poster. Flow: request -> decomposition -> parallel sub-agents -> tool execution -> review -> merged output; rounded tiles, arrows, concise Chinese captions, no logos or trademarks, vector clarity."
+    },
+    {
+      "id": "usage-dashboard-generic",
+      "filename": "usage_dashboard_mock.png",
+      "prompt_zh": "假想 SaaS 用量面板：匿名折线与饼图、横轴为天、纵轴标注 credits-like 占位词，无服务商商标与可读账号。浅色现代扁平风。",
+      "prompt_api": "Generic analytic dashboard mock UI, fictional product. Fake line trends and donut chart, axis labels anonymized credits placeholder, pale SaaS style, Chinese UI captions allowed, zero real vendor logos or account emails."
+    }
+  ]
+}

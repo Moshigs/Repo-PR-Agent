@@ -1,0 +1,34 @@
+# 密钥与本地环境（勿提交）
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+*.egg-info/
+.eggs/
+dist/
+build/
+.venv/
+venv/
+.python-version
+
+
+# 系统杂项
+Thumbs.db
+.Desktop.ini
+
+# 本地运行时生成物（reports/* 仅存可选占位）
+reports/*
+!reports/.gitkeep
+
+# 脚本批量导出的说明图（避免 PNG 误入版本库）
+image/*.png
+image/*.jpg
+image/*.webp
+
+# IDE 本地日志（按需取消注释）
+# .idea/
